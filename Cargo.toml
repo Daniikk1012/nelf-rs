@@ -1,0 +1,8 @@
+[package]
+name = "nelf"
+description = "Implementation of a NELF parser"
+readme = "README.md"
+repository = "https://github.com/Daniikk1012/nelf-rs"
+version = "0.1.0"
+edition = "2021"
+license = "MPL-2.0"
